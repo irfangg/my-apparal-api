@@ -1,8 +1,41 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 4,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/31VspXbakvL._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "Featherlite Ladies' Long Sleeve Stain Resistant Tapered Twill Shirt, 2XL, Onyx Black/ Stone",
+      "Discount_Percent": 40,
+      "Original_Price": 2792,
+      "Final_Price": 1675.2
+    },
+    {
+      "id": 180600,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41myZ%2B5K-1L._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "Tart Womens Collections Susannah Top, M",
+      "Discount_Percent": 40,
+      "Original_Price": 5892,
+      "Final_Price": 3535.2
+    },
+    {
+      "id": 180601,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/51S2gVZbh8L._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "SACRED THREADS Patched Satin Beautiful Top Shirt Small",
+      "Discount_Percent": 40,
+      "Original_Price": 2087,
+      "Final_Price": 1252.1999999999998
+    },
+    {
+      "id": 180607,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41ki9cjB8yL._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "Tart Womens Collections Kat Top, S, Black",
+      "Discount_Percent": 40,
+      "Original_Price": 1437,
+      "Final_Price": 862.1999999999999
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
