@@ -1,29 +1,14 @@
-[
-  {
-    "id": 182994,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41SAkw%2BumnL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Black Fringed Chiffon Cardigan One Size",
-    "Discount_Percent": 40,
-    "Original_Price": 3725,
-    "Final_Price": 2235
-  },
-  {
-    "id": 183009,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41mRpAPxObL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Theory Women's Medium Layered Surplice Blouse Top Silk Pink M",
-    "Discount_Percent": 40,
-    "Original_Price": 5365,
-    "Final_Price": 3219
-  },
-  {
-    "id": 183045,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41cnGyLD79L._SL160_.jpg",
-    "product_type_name": "SPORTING_GOODS",
-    "title": "SODIAL(R) Womens Button Down Lapel Shirt Plaids & Checks Flannel Shirts Tops Blouse-Green XL",
-    "Discount_Percent": 40,
-    "Original_Price": 5410,
-    "Final_Price": 3246
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
