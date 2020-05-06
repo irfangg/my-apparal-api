@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "apparals": [
     {
       "id": 4,
       "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/31VspXbakvL._SL160_.jpg",
@@ -35,13 +35,69 @@
       "Discount_Percent": 40,
       "Original_Price": 1437,
       "Final_Price": 862.1999999999999
+    },
+    {
+      "id": 180614,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41h0EesWwtL._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "Italian Paisley Ladies Amarillo Collection- Indigo (xl) 03-050-0225-0659BU",
+      "Discount_Percent": 40,
+      "Original_Price": 1817,
+      "Final_Price": 1090.1999999999998
+    },
+    {
+      "id": 180655,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41hhxhm%2BIRL._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "Tri-Mountain Executive Long Sleeve Twill Shirt, 3XL, Charcoal",
+      "Discount_Percent": 40,
+      "Original_Price": 2602,
+      "Final_Price": 1561.2
+    },
+    {
+      "id": 180664,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/415db3ZAQXL._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "Susana Monaco Womens Cleo One-Shoulder Top, Xs, White",
+      "Discount_Percent": 40,
+      "Original_Price": 3798,
+      "Final_Price": 2278.8
+    },
+    {
+      "id": 180671,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41zNcQY4vCL._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "Fruit Of The Loom Ladies Lady-Fit Long Sleeve Oxford Shirt (3XL) (Oxford Blue)",
+      "Discount_Percent": 40,
+      "Original_Price": 2729,
+      "Final_Price": 1637.3999999999999
+    },
+    {
+      "id": 180701,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/51--XBxGmqL._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "H.I.P. Small Junior Striped High Low Scoop-Neck Blouse Pink S",
+      "Discount_Percent": 40,
+      "Original_Price": 3693,
+      "Final_Price": 2215.8
+    },
+    {
+      "id": 180707,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41cGg1Tj4KL._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "Vintage America Womens Embroidered Sleeveless Button-Down Top Blue XS",
+      "Discount_Percent": 40,
+      "Original_Price": 4876,
+      "Final_Price": 2925.6
+    },
+    {
+      "id": 180712,
+      "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/51K-A1a54OL._SL160_.jpg",
+      "product_type_name": "SHIRT",
+      "title": "Women's V-neck Loose Fit Button-tab Plain Shirt Black",
+      "Discount_Percent": 40,
+      "Original_Price": 2428,
+      "Final_Price": 1456.8
     }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
