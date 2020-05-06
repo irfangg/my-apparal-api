@@ -1,77 +1,5 @@
 [
   {
-    "id": 4,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/31VspXbakvL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Featherlite Ladies' Long Sleeve Stain Resistant Tapered Twill Shirt, 2XL, Onyx Black/ Stone",
-    "Discount_Percent": 40,
-    "Original_Price": 2792,
-    "Final_Price": 1675.2
-  },
-  {
-    "id": 180600,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41myZ%2B5K-1L._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Tart Womens Collections Susannah Top, M",
-    "Discount_Percent": 40,
-    "Original_Price": 5892,
-    "Final_Price": 3535.2
-  },
-  {
-    "id": 180601,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/51S2gVZbh8L._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "SACRED THREADS Patched Satin Beautiful Top Shirt Small",
-    "Discount_Percent": 40,
-    "Original_Price": 2087,
-    "Final_Price": 1252.1999999999998
-  },
-  {
-    "id": 180607,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41ki9cjB8yL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Tart Womens Collections Kat Top, S, Black",
-    "Discount_Percent": 40,
-    "Original_Price": 1437,
-    "Final_Price": 862.1999999999999
-  },
-  {
-    "id": 180614,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41h0EesWwtL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Italian Paisley Ladies Amarillo Collection- Indigo (xl) 03-050-0225-0659BU",
-    "Discount_Percent": 40,
-    "Original_Price": 1817,
-    "Final_Price": 1090.1999999999998
-  },
-  {
-    "id": 180655,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41hhxhm%2BIRL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Tri-Mountain Executive Long Sleeve Twill Shirt, 3XL, Charcoal",
-    "Discount_Percent": 40,
-    "Original_Price": 2602,
-    "Final_Price": 1561.2
-  },
-  {
-    "id": 180664,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/415db3ZAQXL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Susana Monaco Womens Cleo One-Shoulder Top, Xs, White",
-    "Discount_Percent": 40,
-    "Original_Price": 3798,
-    "Final_Price": 2278.8
-  },
-  {
-    "id": 180671,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41zNcQY4vCL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Fruit Of The Loom Ladies Lady-Fit Long Sleeve Oxford Shirt (3XL) (Oxford Blue)",
-    "Discount_Percent": 40,
-    "Original_Price": 2729,
-    "Final_Price": 1637.3999999999999
-  },
-  {
     "id": 180701,
     "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/51--XBxGmqL._SL160_.jpg",
     "product_type_name": "SHIRT",
@@ -1638,24 +1566,6 @@
     "Final_Price": 3219
   },
   {
-    "id": 183018,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41OhFnbrSQL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Two By Vince Camuto Womens Medium Button-Down Silk Blouse Blue M",
-    "Discount_Percent": 40,
-    "Original_Price": 5347,
-    "Final_Price": 3208.2
-  },
-  {
-    "id": 183020,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/518N0OPjzGL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Vintage America Embroidered Button-Front Shirt Pacific Coast Medium",
-    "Discount_Percent": 40,
-    "Original_Price": 3863,
-    "Final_Price": 2317.8
-  },
-  {
     "id": 183045,
     "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41cnGyLD79L._SL160_.jpg",
     "product_type_name": "SPORTING_GOODS",
@@ -1663,86 +1573,5 @@
     "Discount_Percent": 40,
     "Original_Price": 5410,
     "Final_Price": 3246
-  },
-  {
-    "id": 183046,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/417BIz1j6mL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Hippies Women's Punk VKei Tailcoat Bat Dress Shirts Blouses One Size,White 4937",
-    "Discount_Percent": 40,
-    "Original_Price": 2565,
-    "Final_Price": 1539
-  },
-  {
-    "id": 183052,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/51L9Q7FNPZL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Reversible Missy Floral Quilted Cotton Outerwear Jacket Cardigan Blouse JK #28",
-    "Discount_Percent": 40,
-    "Original_Price": 2267,
-    "Final_Price": 1360.1999999999998
-  },
-  {
-    "id": 183071,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/51Ac5g1pdOL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Lauren Ralph Lauren White Women's Large Stripe Blouse Purple L",
-    "Discount_Percent": 40,
-    "Original_Price": 3941,
-    "Final_Price": 2364.6
-  },
-  {
-    "id": 183080,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41A6Mih9uqL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Free People Long Oversized Button Down Blouse Shirt Size S P",
-    "Discount_Percent": 40,
-    "Original_Price": 5655,
-    "Final_Price": 3393
-  },
-  {
-    "id": 183081,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41%2BtEUMOzUL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "YueLian Women's Chiffon Short Sleeves Sun Protection Outerwear Blouse",
-    "Discount_Percent": 40,
-    "Original_Price": 1146,
-    "Final_Price": 687.5999999999999
-  },
-  {
-    "id": 183092,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41IGij8dDqL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Vintage America Women's Large Lace Up Collared Blouse White L",
-    "Discount_Percent": 40,
-    "Original_Price": 5729,
-    "Final_Price": 3437.4
-  },
-  {
-    "id": 183096,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41Im-mnGE%2BL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Tart Womens Collections Ann Wrap Top, Xs, Black",
-    "Discount_Percent": 40,
-    "Original_Price": 5349,
-    "Final_Price": 3209.4
-  },
-  {
-    "id": 183101,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41WRn2M14JL._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Soprano Womens Small Tie-Fringe Slub-Knit Tank Top Gray S",
-    "Discount_Percent": 40,
-    "Original_Price": 4020,
-    "Final_Price": 2412
-  },
-  {
-    "id": 183120,
-    "medium_image_url": "https://images-na.ssl-images-amazon.com/images/I/41RHS5%2BbB7L._SL160_.jpg",
-    "product_type_name": "SHIRT",
-    "title": "Faded Glory Women's Plaid Button Down 2 Pocket Shirt, Blue/Grey, 1X",
-    "Discount_Percent": 40,
-    "Original_Price": 2984,
-    "Final_Price": 1790.3999999999999
   }
 ]
